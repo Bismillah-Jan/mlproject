@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: mlproject
+Version: 0.1
+Summary: A machine learning project setup
+Author: Bismillah Jan
+License: MIT
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary
